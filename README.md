@@ -17,5 +17,5 @@ Para comenzar con este proyecto, sigue estos pasos:
 
 ### 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/mirel/Tomas.git
+git clone https://github.com/Mirel/Tomas.git
 
