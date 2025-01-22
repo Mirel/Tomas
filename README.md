@@ -5,12 +5,14 @@ Proyecto Tomas - página web
 
 Este proyecto es una plataforma web que permite a los usuarios registrarse, iniciar sesión, gestionar su perfil y encontrar cargadores eléctricos cercanos a su ubicación mediante la geolocalización. Está desarrollado con **PHP**, **MySQL** y **Bootstrap 5**.
 
+Video funcionalidad página web: https://youtu.be/kNd9akLDQ5o
+
 ## Características principales
 - **Registro y autenticación de usuarios**: Los usuarios pueden registrarse con su correo electrónico, nombre, apellidos, fecha de nacimiento y teléfono. Las contraseñas se almacenan de forma segura utilizando **bcrypt**.
 - **Área reservada**: Una vez que el usuario inicia sesión, accede a su perfil, donde puede ver y editar su información personal.
 - **Cargadores cercanos**: El sistema muestra cargadores eléctricos cercanos utilizando las coordenadas geográficas del usuario, con un radio de búsqueda de 50 km.
 - **Diseño responsivo**: La interfaz de usuario es completamente responsiva, construida con **Bootstrap 5**.
-
+  
 ## Configuración en GitHub
 
 Para comenzar con este proyecto, sigue estos pasos:
