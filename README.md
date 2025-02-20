@@ -5,7 +5,7 @@ video presentación del proyecto: https://ucoc-my.sharepoint.com/:v:/g/personal/
 
 Este proyecto es una plataforma web que permite a los usuarios registrarse, iniciar sesión, gestionar su perfil y encontrar cargadores eléctricos cercanos a su ubicación mediante la geolocalización. Está desarrollado con **PHP**, **MySQL** y **Bootstrap 5**.
 
-Video funcionalidad página web: https://youtu.be/kNd9akLDQ5o
+Video funcionalidad página web: https://youtu.be/6K-M6ekNb40
 
 ## Características principales
 - **Registro y autenticación de usuarios**: Los usuarios pueden registrarse con su correo electrónico, nombre, apellidos, fecha de nacimiento y teléfono. Las contraseñas se almacenan de forma segura utilizando **bcrypt**.
